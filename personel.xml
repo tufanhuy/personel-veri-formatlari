@@ -1,0 +1,9 @@
+<personel>
+  <id>1</id>
+  <ad>Tufan</ad>
+  <soyad>Huy</soyad>
+  <dogum_tarihi>1997-25-01</dogum_tarihi>
+  <pozisyon>Application Support Engineer</pozisyon>
+  <maas>2000.00</maas>
+  <aktif>true</aktif>
+</personel>
